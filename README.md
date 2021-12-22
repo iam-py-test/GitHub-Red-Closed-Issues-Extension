@@ -1,5 +1,7 @@
 # GitHub Red Closed Issues Extension (Firefox port)
 
+**Note: The offical version at https://github.com/Katsute/GitHub-Red-Issues should now be compatible with Firefox, so this fork is no longer needed**
+
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Firefox version of the Chrome extension to revert closed GitHub issues from purple back to red.
