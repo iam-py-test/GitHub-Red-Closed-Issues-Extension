@@ -1,4 +1,4 @@
-**Note: The offical version at https://github.com/Katsute/GitHub-Red-Issues should now be compatible with Firefox, so this fork is no longer needed**
+**Note: The offical version at https://github.com/Katsute/GitHub-Red-Issues should now be compatible with Firefox, so this fork is no longer needed. Please report issues to https://github.com/Katsute/GitHub-Red-Issues/issues**
 
 
 # GitHub Red Closed Issues Extension (Firefox port)
